@@ -15,7 +15,7 @@ mover sus alas y con las flechas del teclado, la cámara.
 Para la segunda parte, ejecutar bird-herd.py con argumento 'path.csv', 'path2.csv' o 'path3.csv', archivos con punto
 que recorrerá el águila en la animación. Se puede mover la cámara con el ratón.
  
-# Aquiarium
+# Aquarium
 Modelo 3D de la ecuación del calor en una pecera, conteniendo 3 tipos de peces, simulando que prefieren ciertas temperatuas, que están marcadas con colores.
 Para ejecutar, dar como argumento el string 'problem-setup.json'
 
