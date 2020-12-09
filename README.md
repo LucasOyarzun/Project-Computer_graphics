@@ -7,7 +7,7 @@ Simulación del juego clásico de space-war en 2D, que se juega con las teclas d
 Para ejecutarlo, se debe ejecutar el script space-war.pym donde debe ingresar como argumento un número, 
 referenciando la cantidad de enemigos a vencer.
  
-#Birds
+# Birds
 Animación 3D del movimiento de un águila o de una bandada de águilas en voxeles.
 La primera parte es solo un águila, para esto, ejecutar el script bird.py sin argumentos, con el mouse se pueden
 mover sus alas y con las flechas del teclado, la cámara.
@@ -15,7 +15,7 @@ mover sus alas y con las flechas del teclado, la cámara.
 Para la segunda parte, ejecutar bird-herd.py con argumento 'path.csv', 'path2.csv' o 'path3.csv', archivos con punto
 que recorrerá el águila en la animación. Se puede mover la cámara con el ratón.
  
-#Aquarium
+# Aquiarium
 Modelo 3D de la ecuación del calor en una pecera, conteniendo 3 tipos de peces, simulando que prefieren ciertas temperatuas, que están marcadas con colores.
 Para ejecutar, dar como argumento el string 'problem-setup.json'
 
