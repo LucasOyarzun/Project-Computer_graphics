@@ -12,7 +12,7 @@ Animación 3D del movimiento de un águila o de una bandada de águilas en voxel
 La primera parte es solo un águila, para esto, ejecutar el script bird.py sin argumentos, con el mouse se pueden
 mover sus alas y con las flechas del teclado, la cámara.
  
-Para la segunda parte, ejecutar bird-herd.py con argumento 'path.csv', 'path2.csv' o 'path3.csv', archivos con punto
+Para la segunda parte, ejecutar bird-herd.py con argumento 'path.csv', 'path2.csv' o 'path3.csv', archivos con puntos en el espacio tridimensional
 que recorrerá el águila en la animación. Se puede mover la cámara con el ratón.
  
 # Aquarium
