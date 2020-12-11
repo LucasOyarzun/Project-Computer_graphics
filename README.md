@@ -4,7 +4,7 @@ Cada carpeta posee un video demostrativo de los Mini-proyectos.
 
 # Space-War
 Simulación del juego clásico de space-war en 2D, que se juega con las teclas de Flechas del teclado y barra espaciadora.
-Para ejecutarlo, se debe ejecutar el script space-war.pym donde debe ingresar como argumento un número, 
+Para ejecutarlo, se debe ejecutar el script space-war.py donde debe ingresar como argumento un número, 
 referenciando la cantidad de enemigos a vencer.
  
 # Birds
