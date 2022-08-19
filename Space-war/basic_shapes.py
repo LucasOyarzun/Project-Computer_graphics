@@ -1,4 +1,3 @@
-
 # coding=utf-8
 """
 Daniel Calderon, CC3501, 2019-2
